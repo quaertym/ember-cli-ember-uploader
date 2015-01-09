@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-ember-uploader",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Ember CLI Addon for ember-uploader",
   "directories": {
     "doc": "doc",
