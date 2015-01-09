@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-ember-uploader",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember CLI Addon for ember-uploader",
   "directories": {
     "doc": "doc",
     "test": "tests"
